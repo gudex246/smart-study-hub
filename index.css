@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root{
+--primary:#2563EB;
+--accent:#FACC15;
+}
+body{background:#f8fafc}
+.card{background:white;border-radius:12px;padding:16px;box-shadow:0 6px 18px rgba(2,6,23,0.06)}
